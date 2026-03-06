@@ -1,8 +1,20 @@
-# mumu-plugins
+<p align="center">
+  <strong>mumu-plugins</strong> — Claude Code Plugin Marketplace
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pluginler-1-blue" alt="pluginler" />
+  <img src="https://img.shields.io/badge/lisans-MIT-green" alt="lisans" />
+  <img src="https://img.shields.io/badge/claude--code-marketplace-purple" alt="claude code marketplace" />
+</p>
+
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> | 🇹🇷 Türkçe
+</p>
+
+---
 
 [mumudevx](https://github.com/mumudevx) tarafindan gelistirilen Claude Code plugin koleksiyonu.
-
-> [Read in English (README.md)](./README.md)
 
 ## Pluginler
 
@@ -12,6 +24,12 @@
 
 ## Kurulum
 
+Marketplace'i ekleyin:
+
 ```bash
 claude plugin add https://github.com/mumudevx/mumu-plugins.git
 ```
+
+## Lisans
+
+MIT

@@ -27,14 +27,10 @@ Her iki agent de WebSearch ile hakemli arastirmalara referans verebilir (PubMed,
 
 ## Kurulum
 
-```bash
-claude plugin add fitforge
-```
-
-Veya lokal test icin:
+mumu-plugins marketplace uzerinden:
 
 ```bash
-claude --plugin-dir /path/to/fitforge-plugin
+claude plugin add https://github.com/mumudevx/mumu-plugins.git
 ```
 
 ## Kullanim
