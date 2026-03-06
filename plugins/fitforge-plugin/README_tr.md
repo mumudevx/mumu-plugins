@@ -30,7 +30,7 @@ Her iki agent de WebSearch ile hakemli arastirmalara referans verebilir (PubMed,
 mumu-plugins marketplace uzerinden:
 
 ```bash
-claude plugin add https://github.com/mumudevx/mumu-plugins.git
+claude plugin install https://github.com/mumudevx/mumu-plugins.git
 ```
 
 ## Kullanim

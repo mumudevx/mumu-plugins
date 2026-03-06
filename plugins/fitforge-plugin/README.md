@@ -30,7 +30,7 @@ Both agents can cite peer-reviewed research via WebSearch (PubMed, JISSN, JSCR, 
 Via mumu-plugins marketplace:
 
 ```bash
-claude plugin add https://github.com/mumudevx/mumu-plugins.git
+claude plugin install https://github.com/mumudevx/mumu-plugins.git
 ```
 
 ## Usage

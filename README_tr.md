@@ -27,7 +27,7 @@
 Marketplace'i ekleyin:
 
 ```bash
-claude plugin add https://github.com/mumudevx/mumu-plugins.git
+claude plugin install https://github.com/mumudevx/mumu-plugins.git
 ```
 
 ## Lisans

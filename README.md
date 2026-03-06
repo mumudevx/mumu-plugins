@@ -27,7 +27,7 @@ A collection of Claude Code plugins developed by [mumudevx](https://github.com/m
 Add the marketplace:
 
 ```bash
-claude plugin add https://github.com/mumudevx/mumu-plugins.git
+claude plugin install https://github.com/mumudevx/mumu-plugins.git
 ```
 
 ## License
