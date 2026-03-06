@@ -16,12 +16,6 @@
 
 [mumudevx](https://github.com/mumudevx) tarafindan gelistirilen Claude Code plugin koleksiyonu.
 
-## Pluginler
-
-| Plugin | Aciklama |
-|--------|----------|
-| [FitForge](./plugins/fitforge-plugin) | Kisisellestirilmis fitness ve beslenme programi olusturucu — PT ve beslenme uzmani agentlari ile |
-
 ## Kurulum
 
 Marketplace'i ekleyin:
@@ -32,9 +26,11 @@ Marketplace'i ekleyin:
 
 Ardindan bir plugin kurun:
 
-```bash
-claude plugin install https://github.com/mumudevx/mumu-plugins.git
-```
+## Pluginler
+
+| Plugin | Aciklama | Kurulum |
+|--------|----------|---------|
+| [FitForge](./plugins/fitforge-plugin) | Kisisellestirilmis fitness ve beslenme programi olusturucu — PT ve beslenme uzmani agentlari ile | `/plugin install fitforge@mumu-plugins` |
 
 ## Lisans
 

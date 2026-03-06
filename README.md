@@ -16,12 +16,6 @@
 
 A collection of Claude Code plugins developed by [mumudevx](https://github.com/mumudevx).
 
-## Plugins
-
-| Plugin | Description |
-|--------|-------------|
-| [FitForge](./plugins/fitforge-plugin) | Personalized fitness & nutrition program generator with PT and nutrition expert agents |
-
 ## Installation
 
 Add the marketplace:
@@ -32,9 +26,11 @@ Add the marketplace:
 
 Then install a plugin:
 
-```bash
-claude plugin install https://github.com/mumudevx/mumu-plugins.git
-```
+## Plugins
+
+| Plugin | Description | Install |
+|--------|-------------|---------|
+| [FitForge](./plugins/fitforge-plugin) | Personalized fitness & nutrition program generator with PT and nutrition expert agents | `/plugin install fitforge@mumu-plugins` |
 
 ## License
 

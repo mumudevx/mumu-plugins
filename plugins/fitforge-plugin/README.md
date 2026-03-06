@@ -31,10 +31,7 @@ Add the marketplace, then install:
 
 ```
 /plugin marketplace add mumudevx/mumu-plugins
-```
-
-```bash
-claude plugin install https://github.com/mumudevx/mumu-plugins.git
+/plugin install fitforge@mumu-plugins
 ```
 
 ## Usage
