@@ -1,0 +1,5 @@
+{
+  "name": "fitforge",
+  "version": "1.0.0",
+  "description": "Personalized fitness & nutrition program generator — creates weekly plans with PT and nutrition expert agents. Multi-language support (--lang XX). Ask individual agents questions with /fitforge:ask-marcus and /fitforge:ask-elena."
+}
