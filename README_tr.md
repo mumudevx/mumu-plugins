@@ -26,6 +26,12 @@
 
 Marketplace'i ekleyin:
 
+```
+/plugin marketplace add mumudevx/mumu-plugins
+```
+
+Ardindan bir plugin kurun:
+
 ```bash
 claude plugin install https://github.com/mumudevx/mumu-plugins.git
 ```

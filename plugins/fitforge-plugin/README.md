@@ -27,7 +27,11 @@ Both agents can cite peer-reviewed research via WebSearch (PubMed, JISSN, JSCR, 
 
 ## Installation
 
-Via mumu-plugins marketplace:
+Add the marketplace, then install:
+
+```
+/plugin marketplace add mumudevx/mumu-plugins
+```
 
 ```bash
 claude plugin install https://github.com/mumudevx/mumu-plugins.git

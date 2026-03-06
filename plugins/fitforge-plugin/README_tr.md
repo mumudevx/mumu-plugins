@@ -27,7 +27,11 @@ Her iki agent de WebSearch ile hakemli arastirmalara referans verebilir (PubMed,
 
 ## Kurulum
 
-mumu-plugins marketplace uzerinden:
+Marketplace'i ekleyin, ardindan kurun:
+
+```
+/plugin marketplace add mumudevx/mumu-plugins
+```
 
 ```bash
 claude plugin install https://github.com/mumudevx/mumu-plugins.git
