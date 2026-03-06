@@ -13,11 +13,7 @@
       "author": {
         "name": "mumudevx"
       },
-      "source": {
-        "source": "url",
-        "url": "https://github.com/mumudevx/mumu-plugins.git",
-        "subpath": "plugins/fitforge-plugin"
-      },
+      "source": "./plugins/fitforge-plugin",
       "category": "health",
       "homepage": "https://github.com/mumudevx/mumu-plugins/tree/main/plugins/fitforge-plugin"
     }
